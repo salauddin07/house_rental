@@ -1,0 +1,185 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-
+scale=1">
+<title>Online Package</title>
+<link rel="stylesheet" href="All.css">
+<link rel="stylesheet"
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://kit.fontawesome.com/c4254e24a8.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<section class="header1">
+<nav class="navbar navbar-expand-lg navbar-light navber-white">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="logo-red.png"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+     <i class="fa fa-bars active"></i> 
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      
+	  <ul class="navbar-nav ml-auto text-right">
+       
+       <li class="nav-item">
+          <a class="nav-link" href="index.html">Popular Places</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="secondPage.html">Travel Outside</a>
+        </li>
+		<li class="nav-item">
+          <a class="nav-link" href="ThirsPage.html">Online Packages</a>
+        </li>
+		<li class="nav-item">
+         <a href="#" class="register1-btn">Register Now</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</section>
+
+
+
+<section class="navber1-white">
+<div class="container">
+<div class="roww-title">
+<h2>Weng House</h2>
+<div class="rating-tet">
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star-half-alt"></i>
+<i class="far fa-star"></i>
+<span>245 Reviews</span>
+<p>Location: San Francisco, California, United State</p>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="image">
+<div class="container">
+<div class="galary">
+<div class="gallery-img-1"><img src="house-1.png"></div>
+<div><img src="house-2.png"></div>
+<div><img src="house-3.png"></div>
+<div><img src="house-4.png"></div>
+<div><img src="house-5.png"></div>
+</div>
+
+
+<div class="text-box">
+<h2>Entire rental unit hosted by Brandon</h2>
+<p>2 guest &nbsp; 2 beds &nbsp; &nbsp; 1 bathroom</p>
+<div class="text-box-2">
+<h4>$ 100 / day</h4>
+</div>
+</div>
+<hr class="line">
+
+
+
+<div class="check-box">
+<form class="check-form">
+<div>
+<label>Check-in</label>
+<input type="text" placeholder="Add data">
+</div>
+
+<div>
+<label>Check-out</label>
+<input type="text" placeholder="Add data">
+</div>
+
+<div class="guest-field">
+<label>Guest</label>
+<input type="text" placeholder="2 guest">
+</div>
+<button type="submit">Check Availability</button>
+</form>
+</div>
+
+
+
+<div class="list">
+<ul class="details-list">
+<li><i class="fas fa-home"></i>Entire Home
+<span>You will have the entire flat for you.</span>
+</li>
+<li><i class="fas fa-paint-brush"></i>Great Location
+<span>This host has committed to Staybnb's cleaning process.</span>
+</li>
+<li><i class="fas fa-map-marker-alt"></i>Great Location
+<span>90% of recent guests gave the location a 5-star rating</span>
+</li>
+<li><i class="fas fa-heart"></i>Great Check-in Experience
+<span>100% of recent guests gae the check-in process a a5-star rating</span>
+</li>
+</ul>
+</div>
+<hr class="line">
+
+
+<div class="para">
+<p>Guests will be allocated on the ground floor according to availability. You get a 
+comfortable Two bedroom apartment has a true city feeling. The price quoted is for
+two guest, at the guest slot plese mark the number of guests to get the exact price
+for groups. The Guests will be allocated ground floor according to availability. You
+get the comfortable two bedroom apartment that has a true city feeling.</p>
+</div>
+<hr class="line">
+
+<div class="map">
+<h2>Location on map</h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.8135381740562!2d90.4242410142999!3d23.896229789108215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c5febe304b2f%3A0xa6e5242254180d2b!2spagar%20jihunuk%20market%2C%20tongi%2C%20gazipur!5e0!3m2!1sen!2sbd!4v1644732957140!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<b>San Francisco, California, United States</b>
+<p>It's like a home away from home.</p>
+</div>
+<hr class="line">
+
+
+<div class="last-para">
+<div class="pic">
+<img src="salauddin.jpg">
+</div>
+<div class="text">
+<h2>MD. SALAUDDIN</h2>
+<p><span>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star-half-alt"></i>
+</span>&nbsp; &nbsp; 245 reviews &nbsp; &nbsp; Response rate 100% &nbsp; &nbsp;
+Response time: 60 min </p> 
+</div>
+<a href="#" class="contact-host">Contact</a>
+</div>
+</div>
+</section>
+
+
+<section class="footer">
+<div class="container">
+<div class="footer-icon">
+<a href="https://facebook.com/"><i class="fa fa-facebook-f"></i></a>
+<a href="https://youtube.com/"><i class="fa fa-youtube"></i></a>
+<a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+<a href="https://instagram.com/"><i class="fa fa-instagram"></i></a>
+<hr>
+<p>Copyright 2021,Easy Tutorials.</p>
+</div>
+</div>
+</section>
+
+
+
+
+</body>
+</html>
